@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohnaa Ghosh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Development Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohnaa&label=Profile%20views&color=0e75b6&style=flat" alt="mohnaa" /> </p>
 
@@ -10,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mohnaa](https://github.com/Mohnaa)
 
 - 📫 How to reach me **mohnaag@gmail.com**
-
-- ⚡ Fun fact **Humor is your biggest weapon.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
